@@ -14,9 +14,11 @@ Once upon a time there  was a bald headed baby born on April 2, 2002. That baby
 + I'm doing all this to make my parents proud of me and be the first in my family to graduate high school and college at the same time.
 
 <h2>Things I wrote to pass the Essay word Limit!</h2>
+
 1. My favorite Disney movies would have to be The Little Mermaid and Lilo and Stitch.
 2. My favorite superhero is Aqua man, and Wonder Woman from the DC Universe cause you know DC is better than Marvel.
 3. I have 2 friends one is my best friend and the other is my close friend. 
+
 Their names are Sarahi and Areli they make school bearable. I'm always hungry, if you ever meet me in person I'm always saying I'm hungry or that I'm craving something, and no. I'm not pregnant, just fat. My sense of humor is mostly sarcasm or just things that pop into my head, I just blurt random things out and people laugh , I'm a pretty cool person if you ask me.
 School is easy if I really try my best and put forth effort. I really do suck at math though there's no fixing that, I'm OK at it though I don't completely suck. My favorite subject would have to be History because we take lots of notes and I love writing notes for some weird reason. 
 
