@@ -3,7 +3,7 @@ layout: post
 title: Wassuuup world! (Again, they made me do this.)
 ---
 
-<h2>**The Beginning of the End!**</h2>
+## The beginning of the End <h2>
 Once upon a time there  was a bald headed baby born on April 2, 2002. That baby... Was me. I was born around 12:45, 16 years later, here I am in college. Crazy right? Not really, my name is Hazel Figueroa and I'm 16 in college. In elementary school I wanted to be an actress, and a ninja but now that I'm older and know that's a really big reach for me, I decided I wanted to become a registered nurse working with children. I don't think I'll stop there though I might even rule the world one day and bring world peace who knows? I might still become a ninja and go on super secret ninja missions. Right now, I am currently taking IT classes in El Centro College so whenever I graduate high school I will have my High School Diploma and Associates Degree for IT. Cool, huh?
 
 + I'm a pretty funny and cool person
@@ -13,7 +13,7 @@ Once upon a time there  was a bald headed baby born on April 2, 2002. That baby
 + *I wanna become successful and be able to support my family and give back to my Mom and Dad for everything they did for me and everything they gave me*.
 + I'm doing all this to make my parents proud of me and be the first in my family to graduate high school and college at the same time.
 
-<h2>Things I wrote to pass the Essay word Limit!</h2>
+## Things I wrote to pass the Essay word Limit! <h2>
 
 1. My favorite Disney movies would have to be The Little Mermaid and Lilo and Stitch.
 2. My favorite superhero is Aqua man, and Wonder Woman from the DC Universe cause you know DC is better than Marvel.
